@@ -1,12 +1,12 @@
 import logoAnoNovo from '../../assets/logoAnoNovo.png';
-import s from './Header/header.module.scss';
+import s from './header.module.scss';
 
 
 export default function Header() {
     return (
         <header>
             <section>
-                <img className={s.logoAnoNovo} src={logoAnoNovo} alt="Imagem de um champagne estourando com uma taça cheia e escrito feliz ano novo" />
+                <img className={s.logo} src={logoAnoNovo} alt="Imagem de um champagne estourando com uma taça cheia e escrito feliz ano novo" />
             </section>
             <nav>
                 <ul>
