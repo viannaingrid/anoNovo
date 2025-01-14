@@ -6,7 +6,7 @@ export default function Header() {
     return (
         <header>
             <section>
-                <img src={logoAnoNovo} alt="Imagem de um champagne estourando com uma taça cheia e escrito feliz ano novo" />
+                <img className={s.logoAnoNovo} src={logoAnoNovo} alt="Imagem de um champagne estourando com uma taça cheia e escrito feliz ano novo" />
             </section>
             <nav>
                 <ul>
