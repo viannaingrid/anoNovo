@@ -1,13 +1,13 @@
-
+import s from '../Main/main.module.scss';
 
 export default function Main() {
     return (
-        <section>
-            <section>
+        <section className={s.secMain} >
+            <section className={s.titleMain} >
                 <h2>Boas Festas!!!</h2>
                 <h1>Felicidades!!!</h1>
             </section>
-            <section>
+            <section className={s.textMain} >
                 <p>
                 Em 2025, vamos juntos programar,
                 Com mais código limpo e muito para alcançar!
