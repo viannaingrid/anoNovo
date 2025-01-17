@@ -1,5 +1,5 @@
 import s from '../Main/main.module.scss';
-import anoNovo from '../../assets/img-anoNovo.png';
+import anoNovo from '../../assets/img-anonovo.png';
 
 export default function Main() {
     return (
