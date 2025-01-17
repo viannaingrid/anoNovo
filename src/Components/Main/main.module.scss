@@ -10,12 +10,28 @@
 }
 
 .textos {
-    border: solid 1px red;
     color: #3E3970;
     text-align: right;
     height: 50vh;
+    margin-right: 15rem;
+    font-family: 'Zen Maru Gothic';
     
     .boasFestas {
-        font-size: 5em;
+        font-size: 35px;
+        font-weight: 100;
+    }
+
+    .felicidades {
+        font-size: 60px;
+        font-weight: 700;
+    }
+
+    .mensagem2025 {
+        font-size: 25px;
+        font-weight: 100;
+        padding-top: 15px;
+        margin: 7px 0 0 200px;
+        width: 74.4%;
+        height: 25vh;
     }
 }
