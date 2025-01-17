@@ -14,10 +14,10 @@ export default function Header() {
                         <a className={s.linkHeader}  >Paz</a>
                     </li>
                     <li>
-                        <a className={s.linkHeader}  >Alegria</a>
+                        <a className={s.linkHeader}  >Saúde</a>
                     </li>
                     <li>
-                        <a className={s.linkHeader}  >Saúde</a>
+                        <a className={s.linkHeader}  >Alegria</a>
                     </li>
                 </ul>
             </nav>
